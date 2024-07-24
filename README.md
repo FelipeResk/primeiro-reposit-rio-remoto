@@ -2,9 +2,9 @@
 
 ## objetivos:
 
-1. criar repositório local e adiciona-lo ao github remoto; [ ]
+1. criar repositório local e adiciona-lo ao github remoto; [x]
 
-2. clonar repositório remoto para o nosso computador local; [ ]
+2. clonar repositório remoto para o nosso computador local; [x]
 
 3. Fazer alterações >> adicionar | commitar | enviar arquivos; [ ]
 
